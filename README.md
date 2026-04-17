@@ -4,6 +4,10 @@ This repository is a public showcase for **AI Worksheets**, a private full-stack
 
 The source code for the product is not public. This repo exists to document the product direction, core workflows, and technical scope without exposing the implementation.
 
+## Live Product
+
+- [Live app](https://app.aiworksheets.io/)
+
 ## What It Solves
 
 Teachers spend too much time turning static worksheet content into usable classroom activities, then more time collecting, reviewing, and grading student work.
@@ -43,6 +47,12 @@ Teachers can choose between AI-assisted worksheet creation and manual authoring 
 The worksheet library gives teachers a single place to manage, filter, preview, and reuse worksheet content across their workflow.
 
 ![Worksheet library](./assets/worksheet-library.png)
+
+### Grading Workflow
+
+Assignments and grading surfaces are designed to help teachers review published work quickly and stay on top of classroom activity without extra admin overhead.
+
+![Grading workflow](./assets/grading-workflow.png)
 
 ## Architecture Overview
 
