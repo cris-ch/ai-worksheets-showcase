@@ -6,7 +6,7 @@ The source code for the product is not public. This repo exists to document the 
 
 ## Live Product
 
-- [Live app](https://app.aiworksheets.io/)
+- [Live app](https://aiworksheets.online/)
 
 ## What It Solves
 
